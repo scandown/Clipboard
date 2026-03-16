@@ -1,0 +1,3 @@
+[submodule "external/wl-clipboard"]
+	path = external/wl-clipboard
+	url = https://github.com/bugaevc/wl-clipboard.git
